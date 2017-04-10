@@ -31,7 +31,7 @@ Features of 'Omega'
 -------------------------------
 
 There are two main features :
-- first, you can set three (and even more) themes with different avatar and backgrounds.
+- first, you can set three (and even more) themes with different avatar and backgrounds, to change a theme, you can click one of the three squares in the search bar, the first theme corresponds to the first square on the left, the second the one in the middle, and the third the square on the right.
 - second, in the search bar, by entering some special keys, such as `-y jazz music`, you'll be able to search directly on youtube and not on Google. Another exemple with `-w moe`, it'll search 'moe' on wikipedia. I took the code from another existing startpage, but can't seem to remember it now, will put the credits the moment I found it.
 
 How can I customize 'Omega' ?
@@ -91,6 +91,8 @@ after
 			background: #000000;
 		}
 ``` 
+
+- you can also change the color of the squares for each theme, you'll have to edit in `style.css` the value of `background` for the element `#first_btn`, `#second_btn` and `#third_btn`.
 
 ### SEARCH 
 - open the `js` folder and edit `search.js` in a text editor , you'll have to modify the following code 
