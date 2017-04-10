@@ -9,6 +9,8 @@ Taste some epileptic shit.
 ![screenshot](http://i.imgur.com/Y6e0TGh.jpg)
 Travel in your dreams and subconscious.
 
+check this out in [live](https://catgrills.github.io/Omega/) !
+
 What's a startpage/homepage ?
 -------------------------------
 
