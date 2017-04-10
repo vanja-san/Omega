@@ -1,7 +1,7 @@
 # Omega
 
 ![screenshot](http://i.imgur.com/sqznDsp.jpg)
-Enter in a fantasy world with tanks, magic, succubus.
+Enter a fantasy world with tanks, magic, succubus.
 
 ![screenshot](http://i.imgur.com/jyBp3sJ.jpg)
 Taste some epileptic shit.
