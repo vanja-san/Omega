@@ -18,12 +18,13 @@ It's a local website, namely you'll be able to access it thanks to files present
 What's the structure of 'Omega' ?
 -------------------------------
 
-There are 3 differents folders and two files (.htm and .css) : 
+There are 4 differents folders and five files (.htm and .css) : 
 - the first folder `avatar` is filled with the avatars used for each theme, they're named `avatar_theme01.png`, ..., `avatar_theme03.png`.
 - the second folder `background` contains the three themes I used, you will find in each folder (`theme01`, `theme02` and `theme03`) six backgrounds.
 - the `icons` folder has the icons I used, there is only one file : the favicon (ie the icon in the tab).
 - the `js` folder is very important since you'll have to edit some files to change the weather location or modify some functionalities.
-- the `.htm` file is the most important file since you'll need it to open the startpage on your browser, if you want to change the structure of the startpage you'll have to edit it.
+- the `index.htm` file is the most important file since you'll need it to open the startpage on your browser, if you want to change the structure of the startpage you'll have to edit it.
+- the three `.css` files (`theme01.css`, theme02.css` and theme03.css`) are also necessary since they'll allow you to have different custom themes.
 - the `.css` file will be needed if you want to change the aspect of the startpage, namely the background, the font-family, the size of a picture, etc.
 
 
