@@ -57,20 +57,6 @@ Features
 <li>In the search bar, by entering some special keys, such as <i>-y jazz music</i>, you'll be able to search directly on youtube and not on Google. Another exemple with `-w moe`, it'll search 'moe' on wikipedia.</li>
 </ol>
 
-
-Structure
--------------------------------
-
-<span> There are 4 differents folders and 5 files (.htm and .css). </span>
-<ol>
-<li>the folder <i>avatar</i> is filled with the avatars used for each theme. Each file is named <i>avatar_theme01.png</i>, <i>avatar_theme02.png</i>, <i>avatar_theme03.png</i>.</li>
-<li>the folder <i>background</i> contains four subfolders themes : <i>background_01</i>, <i>background_02</i>, <i>background_03</i> and <i>misc</i>. You will find in each folder the illustrations used for each theme, and the main background in <i>misc</i>.</li>
-<li>the folder <i>icons</i> contains the favicon.</li>
-<li>the folder <i>js</i> has 2 javascript files.</li>
-<li>the file <i>index.htm</i>.</li>
-<li>3 files <i>.css</i>, namely <i>theme01.css</i>, <i>theme02.css</i> and <i>theme03.css</i>.</li>
-</ol>
-
 Customizing
 -------------------------------
 
