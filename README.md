@@ -19,17 +19,19 @@ About
 A startpage/homepage is a local website, namely you'll be able to access it thanks to files present on your computer (in general, it'll be a .htm file), and some browser like Firefox Mozilla and Google Chrome will allow you to set a custom homepage. What's more, thanks to some add-ons/extensions such as 'New Tab Homepage' for FF or 'New Tab Redirect' for Chrome, you'll be able to set this said startpage as you new tab page (amazing isn't it ?). There are a lot of custom startpage on the net, you can check this list of startpage http://startpages.github.io/ or search some of them on github/deviantart. 
 
 
-What's the structure of 'Omega' ?
+Structure
 -------------------------------
 
-There are 4 differents folders and five files (.htm and .css) : 
-- the first folder `avatar` is filled with the avatars used for each theme, they're named `avatar_theme01.png`, ..., `avatar_theme03.png`.
-- the second folder `background` contains the three themes I used, you will find in each folder (`theme01`, `theme02` and `theme03`) six backgrounds.
-- the `icons` folder has the icons I used, there is only one file : the favicon (ie the icon in the tab).
-- the `js` folder is very important since you'll have to edit some files to change the weather location or modify some functionalities.
-- the `index.htm` file is the most important file since you'll need it to open the startpage on your browser, if you want to change the structure of the startpage you'll have to edit it.
-- the three `.css` files (`theme01.css`, theme02.css` and theme03.css`) are also necessary since they'll allow you to have different custom themes.
-- the `.css` file will be needed if you want to change the aspect of the startpage, namely the background, the font-family, the size of a picture, etc.
+<span> There are 4 differents folders and five files (.htm and .css). </span>
+<ol>
+<ku>the first folder `avatar` is filled with the avatars used for each theme, they're named `avatar_theme01.png`, ..., `avatar_theme03.png`</li>
+<li>the second folder `background` contains the three themes I used, you will find in each folder (`theme01`, `theme02` and `theme03`) six backgrounds.</li>
+<li>the `icons` folder has the icons I used, there is only one file : the favicon (ie the icon in the tab).</li>
+<li>the `js` folder is very important since you'll have to edit some files to change the weather location or modify some functionalities.</li>
+<li>the `index.htm` file is the most important file since you'll need it to open the startpage on your browser, if you want to change the structure of the startpage you'll have to edit it.</li>
+<li>the three `.css` files (`theme01.css`, theme02.css` and theme03.css`) are also necessary since they'll allow you to have different custom themes.</li>
+<li>the `.css` file will be needed if you want to change the aspect of the startpage, namely the background, the font-family, the size of a picture, etc.</li>
+</ol>
 
 
 Features of 'Omega'
