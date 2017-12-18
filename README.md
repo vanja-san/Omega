@@ -74,7 +74,7 @@ Structure
 Customizing
 -------------------------------
 
-### THEMES :
+### Themes
 - if you want to edit the themes available, first of all open the `background` folder and replace the six backgrounds by the ones you want (be sure to rename them correctly, ie `background01.png`, ..., `background06.png`).
 - open the `avatar` folder and replace the avatar of the theme you edit with the one you want : if you edited the second theme, you'll have to rename your avatar `avatar_theme02.png`.
 - you'll notice that when you hover one of the background in this startpage, there'll be a transparent color div. You'll have to enter the color code for each background you used. To do that, open one of the `theme.css` file in a text editor and edit the value of `background` for every `#picture[number between 1 and 6]:before`. For example, if I want to have a black div when hovering the first background, I will have the following code : 
@@ -127,7 +127,7 @@ after
 
 - you can also change the color of the squares for each theme, you'll have to edit in `style.css` the value of `background` for the element `#first_btn`, `#second_btn` and `#third_btn`.
 
-### SEARCH 
+### Search
 - open the `js` folder and edit `search.js` in a text editor , you'll have to modify the following code 
 ``` javascript
 case "-u":
