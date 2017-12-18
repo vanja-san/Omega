@@ -75,8 +75,8 @@ Customizing
 
 ### THEMES :
 - if you want to edit the themes available, first of all open the `background` folder and replace the six backgrounds by the ones you want (be sure to rename them correctly, ie `background01.png`, ..., `background06.png`).
-- then, open the `avatar` folder and replace the avatar of the theme you edit with the one you want : if you edited the second theme, you'll have to rename your avatar `avatar_theme02.png`.
-- you'll notice that when you hover one of the background in this startpage, there'll be a transparent color div, you'll have to enter the color code for each background you used (unfortunately for you!). To do that, open `theme_01.css` in a text editor and edit the value of `background` for every `#picture[number between 1 and 6]:before`. For example, if I want to have a black div when hovering the first background, I will have the following code : 
+- open the `avatar` folder and replace the avatar of the theme you edit with the one you want : if you edited the second theme, you'll have to rename your avatar `avatar_theme02.png`.
+- you'll notice that when you hover one of the background in this startpage, there'll be a transparent color div. You'll have to enter the color code for each background you used. To do that, open one of the `theme.css` file in a text editor and edit the value of `background` for every `#picture[number between 1 and 6]:before`. For example, if I want to have a black div when hovering the first background, I will have the following code : 
 
 ``` javascript
 #picture1:before {
@@ -85,8 +85,8 @@ Customizing
 ```
 the first three numbers are the RGB values (you can find them on GIMP, PS, or you can use Google), and the last value correspond to the transparency value (0 means that the div will be completely transparent, on the contrary 1 means that the div won't be transparent).
 
-- you can also change the value of bakground of the element `.main` which is simply the background of the box (you can see it next to the sixth background).
-- if you want to add a fourth theme, you'll have to create a new folder called `theme04` in the `background` one and fill it with six backgrounds. Plus, add a picture called `avatar_theme04` in the `avatar` folder, otherwise there won't be an avatar and it'll be a bit ugly (in my opinion).
+- you can also change the value of border of the element `.main` which is simply the border's color of the box.
+- if you want to add a fourth theme, you'll have to create a new folder called `background_04` in the `background` one and fill it with six backgrounds. Plus, add a picture called `avatar_theme04` in the `avatar` folder, otherwise there won't be an avatar and it'll be a bit ugly (in my opinion).
 - after that, create a file called `theme_04.css` and open it in a text editor. Open one of the others `.css` file, for instance `theme_01.css`, and copy/paste its code in `theme_04.css`.
 You'll have to change the value of every elements :
 
@@ -98,7 +98,7 @@ You'll have to change the value of every elements :
 
 ``` javascript 
 #picture1 {
-	background-image: url("background/theme04/background01.png") !important;
+	background-image: url("background/background_04/background01.png") !important;
 }
 ```
 same thing for the others `#picture[number between 1 and 6]`. And don't forget to change the value of `background` for the elements `#picture[number between 1 and 6]:before` and `.main`
