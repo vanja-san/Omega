@@ -138,16 +138,10 @@ First of all, right click on the `.htm` file and open it with a browser of your 
 Before using the startpage, I suggest you to :
 - download the font I used, namely `Roboto` (https://www.fontsquirrel.com/fonts/roboto) and `Meiryo`, they're free, lucky you !
 
-Source and Credits
+Disclaimer
 -------------------------------
-The background and avatar used are from three artists :
-- lack : http://www.pixiv.net/member.php?id=83739
-- gashi-gashi : www.pixiv.net/member.php?id=5447&lang=en
-- yktmr10 : http://www.pixiv.net/member.php?id=9127068
-
-Where can I find you works ?
--------------------------------
-
-I have a deviantart page : nicknameisfortheweak.deviantart.com
-
-And that's it, I hope you'll enjoy this startpage if you see this submission ! Like usual, if you find this startpage cool or bad, if you have questions, suggestions, there is a section called 'Comments', you can use it everytime !
+<ul>Source of the illustrations used :
+<li>[tokiti](https://www.pixiv.net/member.php?id=2525531)
+<li>[くらら](https://www.pixiv.net/member.php?id=1225492)</li>
+<li>[kotake96](http://kotake96.tumblr.com/)</li>
+</ul>
