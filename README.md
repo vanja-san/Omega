@@ -48,6 +48,16 @@ I use several fonts for the startpage.
 <li> <a href="https://www.freejapanesefont.com/kf-himaji/">KFhimaji</a></li>
 </ol>
 
+Features
+-------------------------------
+
+<span><i>Omega</i> has two main features.</span>
+<ol>
+<li>You can set 3 (or more) themes with different avatar and backgrounds. To switch between theme, you have to click one of the three circles in the header : the first theme corresponds to the first square on the left, the second the one in the middle, and the third the square on the right.</li>
+<li>In the search bar, by entering some special keys, such as <i>-y jazz music</i>, you'll be able to search directly on youtube and not on Google. Another exemple with `-w moe`, it'll search 'moe' on wikipedia.</li>
+</ol>
+
+
 Structure
 -------------------------------
 
@@ -59,15 +69,6 @@ Structure
 <li>the folder <i>js</i> has 2 javascript files.</li>
 <li>the file <i>index.htm</i>.</li>
 <li>3 files <i>.css</i>, namely <i>theme01.css</i>, <i>theme02.css</i> and <i>theme03.css</i>.</li>
-</ol>
-
-Features
--------------------------------
-
-<span><i>Omega</i> has two main features.</span>
-<ol>
-<li>You can set 3 (or more) themes with different avatar and backgrounds. To switch between theme, you have to click one of the three circles in the header : the first theme corresponds to the first square on the left, the second the one in the middle, and the third the square on the right.</li>
-<li>In the search bar, by entering some special keys, such as `-y jazz music`, you'll be able to search directly on youtube and not on Google. Another exemple with `-w moe`, it'll search 'moe' on wikipedia.</li>
 </ol>
 
 Customizing
