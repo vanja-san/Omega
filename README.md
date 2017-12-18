@@ -9,7 +9,7 @@
 ![screenshot](https://s1.gifyu.com/images/Screenshot-1198.png)
 3rd theme
 
-here a [live preview](https://catgrills.github.io/Omega/) !
+[Live preview.](https://catgrills.github.io/Omega/)
 
 About
 -------------------------------
