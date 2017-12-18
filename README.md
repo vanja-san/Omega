@@ -143,7 +143,7 @@ Disclaimer
 
 <span>Source of the illustrations used.</span>
 <ol>
-<li><a href="https://www.pixiv.net/member.php?id=2525531">tokiti]</a>
+<li><a href="https://www.pixiv.net/member.php?id=2525531">tokiti (ときち)</a>
 <li><a href="https://www.pixiv.net/member.php?id=1225492)">くらら</a></li>
-<li><a href="http://kotake96.tumblr.com/">kotake96</a></li>
+<li><a href="https://www.pixiv.net/member.php?id=598083">kotake96 (コタケ)</a></li>
 </ol>
