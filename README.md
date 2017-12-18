@@ -147,3 +147,8 @@ Disclaimer
 <li><a href="https://www.pixiv.net/member.php?id=1225492)">くらら</a></li>
 <li><a href="https://www.pixiv.net/member.php?id=598083">kotake96 (コタケ)</a></li>
 </ol>
+
+Report
+-------------------------------
+
+If you find some issues or bug when using this stratpage, don't hesitate to report it in the comments.
