@@ -1,20 +1,19 @@
 # Omega
 
-![screenshot](http://i.imgur.com/sqznDsp.jpg)
-Enter a fantasy world with tanks, magic, succubus.
+![screenshot]()
 
-![screenshot](http://i.imgur.com/jyBp3sJ.jpg)
-Taste some epileptic shit.
+![screenshot]()
 
-![screenshot](http://i.imgur.com/Y6e0TGh.jpg)
-Travel in your dreams and subconscious.
+![screenshot]()
 
-check this out in [live](https://catgrills.github.io/Omega/) !
+live preview : [live](https://catgrills.github.io/Omega/) !
 
-What's a startpage/homepage ?
+About
 -------------------------------
 
-It's a local website, namely you'll be able to access it thanks to files present on your computer (in general, it'll be a .htm file), and some browser like Firefox Mozilla and Google Chrome will allow you to set a custom homepage. What's more, thanks to some add-ons/extensions such as 'New Tab Homepage' for FF or 'New Tab Redirect' for Chrome, you'll be able to set this said startpage as you new tab page (amazing isn't it ?). There are a lot of custom startpage on the net, you can check this list of startpage http://startpages.github.io/ or search some of them on github/deviantart. 
+<i>Omega</i> is a startpage featuring three different themes.
+
+A startpage/homepage is a local website, namely you'll be able to access it thanks to files present on your computer (in general, it'll be a .htm file), and some browser like Firefox Mozilla and Google Chrome will allow you to set a custom homepage. What's more, thanks to some add-ons/extensions such as 'New Tab Homepage' for FF or 'New Tab Redirect' for Chrome, you'll be able to set this said startpage as you new tab page (amazing isn't it ?). There are a lot of custom startpage on the net, you can check this list of startpage http://startpages.github.io/ or search some of them on github/deviantart. 
 
 
 What's the structure of 'Omega' ?
