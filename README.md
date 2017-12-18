@@ -134,7 +134,7 @@ query = query.substr(3);
 window.location = "https://userstyles.org/styles/browse?search_terms=" 
 break;
 ```
-- first, you have to decide of a website, I will take `bato.to and a special key for this said site, I will take -b, thus you'll have the following code
+- first, you have to decide of a website (I will take bato.to) and a special key for this said site : I will take -b, thus you'll have the following code
 
 ``` javascript
 case "-b":
@@ -164,4 +164,4 @@ Disclaimer
 Report
 -------------------------------
 
-If you find some issues or bug when using this stratpage, don't hesitate to report it in the comments.
+If you find some issues or bug when using this startpage, don't hesitate to report it in the comments.
