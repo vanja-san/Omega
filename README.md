@@ -9,7 +9,7 @@
 ![screenshot](https://s1.gifyu.com/images/Screenshot-1198.png)
 3rd theme
 
-[Live Demo.](https://catgrills.github.io/Omega/)
+[Live Demo](https://catgrills.github.io/Omega/) of <i>Omega</i>.
 
 About
 -------------------------------
@@ -73,14 +73,10 @@ Features
 Customizing
 -------------------------------
 
-### TITLES & LINKS :
-- open the `.htm` file in a text editor (personally I use Sublime), search for `http://link1.com/` and replace it with the URL of the said site (if we take Facebook, it'll be `https://www.facebook.com/`).
-- you'll have to do the same thing for your favorites links on the sidebar, search for `http://fav1.com/` and replace the URL. Change the string `FAV1` with the name of the said site.
-
 ### THEMES :
 - if you want to edit the themes available, first of all open the `background` folder and replace the six backgrounds by the ones you want (be sure to rename them correctly, ie `background01.png`, ..., `background06.png`).
 - then, open the `avatar` folder and replace the avatar of the theme you edit with the one you want : if you edited the second theme, you'll have to rename your avatar `avatar_theme02.png`.
-- you'll notice that when you hover one of the background in this startpage, there'll be a transparent color div, you'll have to enter the color code for each background you used (unfortunately for you!). To do that, open `theme01.css` in a text editor and edit the value of `background` for every `#picture[number between 1 and 6]:before`. For example, if I want to have a black div when hovering the first background, I will have the following code : 
+- you'll notice that when you hover one of the background in this startpage, there'll be a transparent color div, you'll have to enter the color code for each background you used (unfortunately for you!). To do that, open `theme_01.css` in a text editor and edit the value of `background` for every `#picture[number between 1 and 6]:before`. For example, if I want to have a black div when hovering the first background, I will have the following code : 
 
 ``` javascript
 #picture1:before {
@@ -91,7 +87,7 @@ the first three numbers are the RGB values (you can find them on GIMP, PS, or yo
 
 - you can also change the value of bakground of the element `.main` which is simply the background of the box (you can see it next to the sixth background).
 - if you want to add a fourth theme, you'll have to create a new folder called `theme04` in the `background` one and fill it with six backgrounds. Plus, add a picture called `avatar_theme04` in the `avatar` folder, otherwise there won't be an avatar and it'll be a bit ugly (in my opinion).
-- after that, create a file called `theme04.css` and open it in a text editor. Open one of the others `.css` file, for instance `theme01.css`, and copy/paste its code in `theme04.css`.
+- after that, create a file called `theme_04.css` and open it in a text editor. Open one of the others `.css` file, for instance `theme_01.css`, and copy/paste its code in `theme_04.css`.
 You'll have to change the value of every elements :
 
 ``` javascript 
@@ -110,14 +106,14 @@ same thing for the others `#picture[number between 1 and 6]`. And don't forget t
 - next, you'll have to open `index.htm` in a text editor and add the following code :
 
 ``` javascript 
-<button onclick="swapStyleSheet('theme04.css')" id="fourth_btn"></button>
+<button onclick="swapStyleSheet('theme_04.css')" id="fourth_btn"></button>
 ```
 
 after 
 
 
 ``` javascript 
-<button onclick="swapStyleSheet('theme03.css')" id="third_btn"></button>
+<button onclick="swapStyleSheet('theme_03.css')" id="third_btn"></button>
 ```
 
 - finally, open `style.css` in a text editor and add the following code (the default background value is black, you can change it for another color) :
