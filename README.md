@@ -18,13 +18,36 @@ About
 
 A startpage/homepage is a local website, namely you'll be able to access it thanks to files present on your computer (in general, it'll be a .htm file), and some browser like Firefox Mozilla and Google Chrome will allow you to set a custom homepage. What's more, thanks to some add-ons/extensions such as 'New Tab Homepage' for FF or 'New Tab Redirect' for Chrome, you'll be able to set this said startpage as you new tab page (amazing isn't it ?). There are a lot of custom startpage on the net, you can check this list of startpage http://startpages.github.io/ or search some of them on github/deviantart. 
 
+Instruction
+-------------------------------
+
+<strong>Step 1 : Right click on the <i>.htm</i> file and open it with a browser of your choice</strong>
+
+<strong>Step 2 : Set the startpage as the homepage </strong>
+<ol>
+<li> FOR FIREFOX MOZILLA </li>
+- go to the settings or copy/paste `about:preferences` in the URL bar. In `General`, copy/paste the URL of the startpage (it should be something like `file:///C:/Users/[Your name]/Documents/SPIRIT/index.htm` in `Home Page` and choose the option `Show my home page` for `When Firefox starts`.
+- download the add-on `New Tab Homepage` (https://addons.mozilla.org/en-US/firefox/addon/new-tab-homepage/), it'll redirect you to your homepage each time you open a new tab.
+
+<li> FOR GOOGLE CHROME </li>
+- go to the settings. In `Appearance`, check `show home page` and modify the link with the URL of the startpage.
+- download the extension `New Tab Redirect` (https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=en)
+</ol>
+
+<strong>Step 3 : Install the font </strong>
+
+I use several fonts for the startpage.
+<ol>
+<li> <a href="https://www.fontsquirrel.com/fonts/roboto">Roboto</a></li>
+<li> <a href="https://www.freejapanesefont.com/kf-himaji/">KFhimaji</a></li>
+</ol>
 
 Structure
 -------------------------------
 
 <span> There are 4 differents folders and 5 files (.htm and .css). </span>
 <ol>
-<li>the folder <i>avatar</i> is filled with the avatars used for each theme. Each file is named <i>avatar_theme01.png</i>, <i>avatar_theme02.png</i>, <i>avatar_theme03.png</i></li>
+<li>the folder <i>avatar</i> is filled with the avatars used for each theme. Each file is named <i>avatar_theme01.png</i>, <i>avatar_theme02.png</i>, <i>avatar_theme03.png</i>.</li>
 <li>the folder <i>background</i> contains four subfolders themes : <i>background_01</i>, <i>background_02</i>, <i>background_03</i> and <i>misc</i>. You will find in each folder the illustrations used for each theme, and the main background in <i>misc</i>.</li>
 <li>the folder <i>icons</i> contains the favicon.</li>
 <li>the folder <i>js</i> has 2 javascript files.</li>
@@ -125,21 +148,6 @@ query = query.substr(3);
 window.location = "http://bato.to/search?name=" 
 break;
 ```
-
-Instruction
--------------------------------
-First of all, right click on the `.htm` file and open it with a browser of your choice.
-
-### FOR FIREFOX MOZILLA
-- go to the settings or copy/paste `about:preferences` in the URL bar. In `General`, copy/paste the URL of the startpage (it should be something like `file:///C:/Users/[Your name]/Documents/SPIRIT/index.htm` in `Home Page` and choose the option `Show my home page` for `When Firefox starts`.
-- download the add-on `New Tab Homepage` (https://addons.mozilla.org/en-US/firefox/addon/new-tab-homepage/), it'll redirect you to your homepage each time you open a new tab.
-
-### FOR GOOGLE CHROME
-- go to the settings. In `Appearance`, check `show home page` and modify the link with the URL of the startpage.
-- download the extension `New Tab Redirect` (https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=en)
-
-Before using the startpage, I suggest you to :
-- download the font I used, namely `Roboto` (https://www.fontsquirrel.com/fonts/roboto) and `Meiryo`, they're free, lucky you !
 
 Disclaimer
 -------------------------------
