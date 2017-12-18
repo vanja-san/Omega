@@ -1,0 +1,45 @@
+	#container {
+		/* THEME 03 CONTAINER BORDER */
+		border: 5px solid rgba(211,50,87,.6) !important;
+	}
+	.avatar {
+		/* THEME 02 AVATAR */
+		background-image: url("avatar/avatar_theme02.png") !important;
+	}
+	#picture1:before {
+		/* MAIN COLUMN ITEM ILLUSTRATION */
+		background: rgba(235,117,177,.5);
+	}
+	#picture1 {
+		background-image: url("background/background_02/background01.png") !important;
+	}
+	#picture2:before {
+		background: rgba(69,199,109,.5);
+	}
+	#picture2 {
+		background-image: url("background/background_02/background02.png") !important;
+	}
+	#picture3:before {
+		background: rgba(101,87,86,.5);
+	}
+	#picture3 {
+		background-image: url("background/background_02/background03.png") !important;
+	}
+	#picture4:before {
+		background: rgba(202,107,89,.5);
+	}
+	#picture4 {
+		background-image: url("background/background_02/background04.png") !important;
+	}
+	#picture5:before {
+		background: rgba(45,127,201,.5);
+	}
+	#picture5 {
+		background-image: url("background/background_02/background05.png") !important;
+	}
+	#picture6:before {
+		background: rgba(92,85,92,.5);
+	}
+	#picture6 {
+		background-image: url("background/background_02/background06.png") !important;
+	}
