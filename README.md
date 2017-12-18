@@ -22,26 +22,26 @@ A startpage/homepage is a local website, namely you'll be able to access it than
 Structure
 -------------------------------
 
-<span> There are 4 differents folders and five files (.htm and .css). </span>
+<span> There are 4 differents folders and 5 files (.htm and .css). </span>
 <ol>
-<ku>the first folder `avatar` is filled with the avatars used for each theme, they're named `avatar_theme01.png`, ..., `avatar_theme03.png`</li>
-<li>the second folder `background` contains the three themes I used, you will find in each folder (`theme01`, `theme02` and `theme03`) six backgrounds.</li>
-<li>the `icons` folder has the icons I used, there is only one file : the favicon (ie the icon in the tab).</li>
-<li>the `js` folder is very important since you'll have to edit some files to change the weather location or modify some functionalities.</li>
-<li>the `index.htm` file is the most important file since you'll need it to open the startpage on your browser, if you want to change the structure of the startpage you'll have to edit it.</li>
-<li>the three `.css` files (`theme01.css`, theme02.css` and theme03.css`) are also necessary since they'll allow you to have different custom themes.</li>
-<li>the `.css` file will be needed if you want to change the aspect of the startpage, namely the background, the font-family, the size of a picture, etc.</li>
+<li>the folder <i>avatar</i> is filled with the avatars used for each theme. Each file is named <i>avatar_theme01.png</i>, <i>avatar_theme02.png</i>, <i>avatar_theme03.png</i></li>
+<li>the folder <i>background</i> contains four subfolders themes : <i>background_01</i>, <i>background_02</i>, <i>background_03</i> and <i>misc</i>. You will find in each folder the illustrations used for each theme, and the main background in <i>misc</i>.</li>
+<li>the folder <i>icons</i> contains the favicon.</li>
+<li>the folder <i>js</i> has 2 javascript files.</li>
+<li>the file <i>index.htm</i>.</li>
+<li>3 files <i>.css</i>, namely <i>theme01.css</i>, <i>theme02.css</i> and <i>theme03.css</i>.</li>
 </ol>
 
-
-Features of 'Omega'
+Features
 -------------------------------
 
-There are two main features :
-- first, you can set three (and even more) themes with different avatar and backgrounds, to change a theme, you can click one of the three squares in the search bar, the first theme corresponds to the first square on the left, the second the one in the middle, and the third the square on the right.
-- second, in the search bar, by entering some special keys, such as `-y jazz music`, you'll be able to search directly on youtube and not on Google. Another exemple with `-w moe`, it'll search 'moe' on wikipedia. I took the code from another existing startpage, but can't seem to remember it now, will put the credits the moment I found it.
+<span><i>Omega</i> has two main features.</span>
+<ol>
+<li>You can set 3 (or more) themes with different avatar and backgrounds. To switch between theme, you have to click one of the three circles in the header : the first theme corresponds to the first square on the left, the second the one in the middle, and the third the square on the right.</li>
+<li>In the search bar, by entering some special keys, such as `-y jazz music`, you'll be able to search directly on youtube and not on Google. Another exemple with `-w moe`, it'll search 'moe' on wikipedia.</li>
+</ol>
 
-How can I customize 'Omega' ?
+Customizing
 -------------------------------
 
 ### TITLES & LINKS :
@@ -125,7 +125,8 @@ query = query.substr(3);
 window.location = "http://bato.to/search?name=" 
 break;
 ```
-How to use 'Omega' ?
+
+Instruction
 -------------------------------
 First of all, right click on the `.htm` file and open it with a browser of your choice.
 
