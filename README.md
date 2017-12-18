@@ -25,13 +25,15 @@ Instruction
 
 <strong>Step 2 : Set the startpage as the homepage </strong>
 <ol>
-<li> FOR FIREFOX MOZILLA </li>
-- go to the settings or copy/paste `about:preferences` in the URL bar. In `General`, copy/paste the URL of the startpage (it should be something like `file:///C:/Users/[Your name]/Documents/SPIRIT/index.htm` in `Home Page` and choose the option `Show my home page` for `When Firefox starts`.
-- download the add-on `New Tab Homepage` (https://addons.mozilla.org/en-US/firefox/addon/new-tab-homepage/), it'll redirect you to your homepage each time you open a new tab.
+<li> FOR FIREFOX MOZILLA 
+-- go to the settings or copy/paste <i>about:preferences</i> in the URL bar. In <i>General</i>, copy/paste the URL of the startpage (it should be something like <i>file:///C:/Users/[Your name]/Documents/OMEGA/index.htm</i> in <i>Home Page</i> and choose the option <i>Show my home page</i> for <i>When Firefox starts</i>.
+-- download the add-on <i>New Tab Homepage</i> (https://addons.mozilla.org/en-US/firefox/addon/new-tab-homepage/), it'll redirect you to your homepage each time you open a new tab.
+</li>
 
-<li> FOR GOOGLE CHROME </li>
-- go to the settings. In `Appearance`, check `show home page` and modify the link with the URL of the startpage.
-- download the extension `New Tab Redirect` (https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=en)
+<li> FOR GOOGLE CHROME 
+-- go to the settings. In <i>Appearance</i>, check <i>show home page</i> and modify the link with the URL of the startpage.
+-- download the extension <i>New Tab Redirect</i> (https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=en)
+</li>
 </ol>
 
 <strong>Step 3 : Install the font </strong>
