@@ -26,13 +26,13 @@ Instruction
 <strong>Step 2 : Set the startpage as the homepage </strong>
 <ul>
 
-<span>For Mozilla Firefox</span>
+<p>For Mozilla Firefox</p>
 <ol> 
 <li> go to the settings or copy/paste <i>about:preferences</i> in the URL bar. In <i>General</i>, copy/paste the URL of the startpage (it should be something like <i>file:///C:/Users/[Your name]/Documents/OMEGA/index.htm</i> in <i>Home Page</i> and choose the option <i>Show my home page</i> for <i>When Firefox starts</i>.</li>
 <li> download the add-on <i>New Tab Homepage</i> (https://addons.mozilla.org/en-US/firefox/addon/new-tab-homepage/), it'll redirect you to your homepage each time you open a new tab.</li>
 </ol>
 
-<span>For Google Chrome</span>
+<p>For Google Chrome</p>
 <ol> 
 <li> go to the settings. In <i>Appearance</i>, check <i>show home page</i> and modify the link with the URL of the startpage. </li>
 <li> download the extension <i>New Tab Redirect</i> (https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=en). </li>
