@@ -9,7 +9,7 @@
 ![screenshot](https://s1.gifyu.com/images/Screenshot-1198.png)
 3rd theme
 
-[Live preview.](https://catgrills.github.io/Omega/)
+[Live Demo.](https://catgrills.github.io/Omega/)
 
 About
 -------------------------------
@@ -24,17 +24,16 @@ Instruction
 <strong>Step 1 : Right click on the <i>.htm</i> file and open it with a browser of your choice</strong>
 
 <strong>Step 2 : Set the startpage as the homepage </strong>
-<ol>
-<li> FOR FIREFOX MOZILLA 
--- go to the settings or copy/paste <i>about:preferences</i> in the URL bar. In <i>General</i>, copy/paste the URL of the startpage (it should be something like <i>file:///C:/Users/[Your name]/Documents/OMEGA/index.htm</i> in <i>Home Page</i> and choose the option <i>Show my home page</i> for <i>When Firefox starts</i>.
--- download the add-on <i>New Tab Homepage</i> (https://addons.mozilla.org/en-US/firefox/addon/new-tab-homepage/), it'll redirect you to your homepage each time you open a new tab.
-</li>
+<ul>
+<ol> FOR FIREFOX MOZILLA </ol>
+<li> go to the settings or copy/paste <i>about:preferences</i> in the URL bar. In <i>General</i>, copy/paste the URL of the startpage (it should be something like <i>file:///C:/Users/[Your name]/Documents/OMEGA/index.htm</i> in <i>Home Page</i> and choose the option <i>Show my home page</i> for <i>When Firefox starts</i>.</li>
+<li> download the add-on <i>New Tab Homepage</i> (https://addons.mozilla.org/en-US/firefox/addon/new-tab-homepage/), it'll redirect you to your homepage each time you open a new tab.</li>
 
-<li> FOR GOOGLE CHROME 
--- go to the settings. In <i>Appearance</i>, check <i>show home page</i> and modify the link with the URL of the startpage.
--- download the extension <i>New Tab Redirect</i> (https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=en)
+<ol> FOR GOOGLE CHROME </ol>
+<li> go to the settings. In <i>Appearance</i>, check <i>show home page</i> and modify the link with the URL of the startpage. </li>
+<li> download the extension <i>New Tab Redirect</i> (https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=en). </li>
 </li>
-</ol>
+</ul>
 
 <strong>Step 3 : Install the font </strong>
 
