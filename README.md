@@ -140,8 +140,8 @@ Before using the startpage, I suggest you to :
 
 Disclaimer
 -------------------------------
-<ul>Source of the illustrations used :
+<ol>Source of the illustrations used :
 <li>[tokiti](https://www.pixiv.net/member.php?id=2525531)
 <li>[くらら](https://www.pixiv.net/member.php?id=1225492)</li>
 <li>[kotake96](http://kotake96.tumblr.com/)</li>
-</ul>
+</ol>
