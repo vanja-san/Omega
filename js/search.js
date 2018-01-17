@@ -37,7 +37,7 @@ function search(query){
         case "-n":
             query = query.substr(3);
             window.location = 
-    	"https://www.nyaa.se/?page=search&cats=0_0&filter=0&term=" + 
+    	"https://nyaa.si/?f=0&c=0_0&q=" + 
     	query.replaceChars("+", "%2B");
     	break;
 
