@@ -6,7 +6,7 @@
 ![screenshot](https://s1.gifyu.com/images/Screenshot-1249.png)
 2nd theme
 
-![screenshot](https://s1.gifyu.com/images/Screenshot-1248.png)
+![screenshot](https://s1.gifyu.com/images/dddf6ff008745766d0a.png)
 3rd theme
 
 [Live Demo](https://catgrills.github.io/Omega/) of <i>Omega</i>.
