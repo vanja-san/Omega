@@ -1,13 +1,6 @@
 # Omega
 
-![screenshot](https://s1.gifyu.com/images/Screenshot-1250.png)
-1st theme
-
-![screenshot](https://s1.gifyu.com/images/Screenshot-1249.png)
-2nd theme
-
-![screenshot](https://s1.gifyu.com/images/dddf6ff008745766d0a.png)
-3rd theme
+<img src="preview_omega.png" width="100%">
 
 [Live Demo](https://catgrills.github.io/Omega/) of <i>Omega</i>.
 
