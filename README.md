@@ -1,6 +1,6 @@
 # Omega
 
-<img src="preview_omega.png" width="100%">
+<img src="preview_omega_2.png" width="100%">
 
 [Live Demo](https://catgrills.github.io/Omega/) of <i>Omega</i>.
 
