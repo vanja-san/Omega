@@ -1,5 +1,9 @@
+	body {
+		/* THEME 02 BODY BACKGROUND */
+		background-color: #B3415F;
+	}	
 	#container {
-		/* THEME 03 CONTAINER BORDER */
+		/* THEME 02 CONTAINER BORDER */
 		border: 5px solid rgba(211,50,87,.6) !important;
 	}
 	.avatar {
