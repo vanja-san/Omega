@@ -1,3 +1,7 @@
+	body {
+		/* THEME 03 BODY BACKGROUND */
+		background-color: #E1A513;
+	}	
 	#container {
 		/* THEME 03 CONTAINER BORDER */
 		border: 5px solid rgba(235, 49,50,.6) !important;

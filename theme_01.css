@@ -1,3 +1,7 @@
+	body {
+		/* THEME 01 BODY BACKGROUND */
+		background-color: #EDC2C8;
+	}	
 	.avatar {
 		/* THEME 01 AVATAR */
 		background-image: url("avatar/avatar_theme01.png") !important;
