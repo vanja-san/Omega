@@ -180,7 +180,7 @@
 		display: block;
 	}
 	.lname {
-		position: absolute;
+		position: relative;
 		color: #25373D;
 		margin-top: auto;
 		margin-left: auto;
