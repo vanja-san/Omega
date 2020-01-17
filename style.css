@@ -176,10 +176,3 @@
 		display: block;
 		transition: all .7s;
 	}
-	.lname {
-		color: #25373D;
-		text-align: center;
-		font-size: large;
-		text-decoration: none;
-		text-overflow: none;
-	}
