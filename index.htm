@@ -1,21 +1,21 @@
 ﻿<!DOCTYPE html>
 <html>
 	<head>
-	        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	        <title>Домашняя Omega</title>
-	        <link rel="shortcut icon" type="image/png" href="icons/favicon01.png"/>
-	        <link rel="stylesheet" type="text/css" href="style.css">
-	        <link id="pagestyle" rel="stylesheet" type="text/css" title="lack" href="theme_01.css">
-	        <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
-	        <script type="text/javascript">
+	  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	  <title>Домашняя Omega</title>
+	  <link rel="shortcut icon" type="image/png" href="icons/favicon01.png"/>
+	  <link rel="stylesheet" type="text/css" href="style.css">
+	  <link id="pagestyle" rel="stylesheet" type="text/css" title="lack" href="theme_01.css">
+	  <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+	  <script type="text/javascript">
 		$(document).ready(function() {
-		      function updateDate() {
-		      var m = new Date();
-		      var n = m.getMonth() + 1;
-		      var dateString = ("0" + m.getDate()).slice(-2) + " " + ("0" + n).slice(-2)  + " " + ("0" + m.getYear()).slice(-2)                
-		                   document.getElementById('date').innerHTML = dateString;
-		       }
-		       updateDate();
+		  function updateDate() {
+		  	var m = new Date();
+		  	var n = m.getMonth() + 1;
+		  	var dateString = ("0" + m.getDate()).slice(-2) + " " + ("0" + n).slice(-2)  + " " + ("0" + m.getYear()).slice(-2)                
+		      	document.getElementById('date').innerHTML = dateString;
+			}
+			updateDate();
 		});
 		function swapStyleSheet(sheet){
 			document.getElementById('pagestyle').setAttribute('href', sheet);
@@ -27,30 +27,39 @@
 			document.getElementById('pagestyle').setAttribute('href', sheet);
 			localStorage.setItem('css', sheet);
 		}
-	        </script>
+	  </script>
 	</head>
 
 	<body>
 		<div id="container">
-	                            <div class="form">
-	                           		<input  id="searchbox" name="q" type="text" autocomplete="off" class="cleardefault" maxlength="100"   placeholder="Google поиск..." size="17" autofocus="autofocus" />
-	                            </div>
-	                            <div class="buttons">
-	                            	<button onclick="swapStyleSheet('theme_01.css')" id="first_btn"></button>
-	                            	<button onclick="swapStyleSheet('theme_02.css')" id="second_btn"></button>
-	                            	<button onclick="swapStyleSheet('theme_03.css')" id="third_btn"></button>
-	                            </div>
+	    <div class="form">
+	      <input  id="searchbox" name="q" type="text" autocomplete="off" class="cleardefault" maxlength="100"   placeholder="Google поиск..." size="17" autofocus="autofocus" />
+	    </div>
+	    <div class="buttons">
+	    	<button onclick="swapStyleSheet('theme_01.css')" id="first_btn" title="Стиль 1"></button>
+	    	<button onclick="swapStyleSheet('theme_02.css')" id="second_btn" title="Стиль 2"></button>
+	    	<button onclick="swapStyleSheet('theme_03.css')" id="third_btn" title="Стиль 3"></button>
+	    </div>
 			<div class="profile">
 				<div class="avatar"></div>
 				<div class="user">
-					<div id"mail">
-						<a href="https://mail.google.com/mail/u/0/#inbox">GMAIL</a>
+					<div id="social">
+						<a href="https://vk.com">ВКОНТАКТЕ</a>
 					</div>
 					<div id="social">
-						<a href="https://www.vk.com/">VK</a>
+						<a href="https://twitter.com">TWITTER</a>
+					</div>
+					<div id="mail">
+						<a href="https://mail.google.com/mail/u/0/#inbox">GMAIL</a>
 					</div>
 					<div id="school">
-						<a href="https://www.anilibria.tv/pages/catalog.php">ANILIBRIA</a>
+						<a href="http://nexusmods.com">NEXUSMODS</a>
+					</div>
+					<div id="school">
+						<a href="https://www.curseforge.com/minecraft/mc-mods">CURSEFORGE</a>
+					</div>
+					<div id="school">
+						<a href="https://github.com">GITHUB</a>
 					</div>
 					<div id="date">
 				
@@ -59,33 +68,45 @@
 			</div>
 			<div class="main">
 				<div class="column">
-					<a href="http://www.4chan.org/">
-						<div  id="picture1" class="picture"></div>
+					<a href="http://anilibria.tv/pages/catalog.php">
+						<div id="picture1" class="picture">
+							<p class="lname">Anilibria</p>
+						</div>
 					</a>
 				</div>
 				<div class="column">
-					<a href="https://exhentai.org/">
-						<div  id="picture2" class="picture"></div>
+					<a href="https://online.anidub.com/">
+						<div id="picture4" class="picture">
+							<p class="lname">AniDUB</p>
+						</div>
 					</a>
 				</div>
 				<div class="column">
-					<a href="https://www.nyaa.si/">
-						<div id="picture3" class="picture"></div>
+					<a href="https://youtube.com/">
+						<div id="picture2" class="picture">
+							<p class="lname">YouTube</p>
+						</div>
 					</a>
 				</div>
 				<div class="column">
-					<a href="https://soundcloud.com/stream">
-						<div  id="picture4" class="picture"></div>
+					<a href="http://fanserials.network">
+						<div id="picture3" class="picture">
+							<p class="lname">FanSerials</p>
+						</div>
 					</a>
 				</div>
 				<div class="column">
 					<a href="https://mangadex.org/">
-						<div  id="picture5" class="picture"></div>
+						<div id="picture5" class="picture">
+							<p class="lname">MangaDex</p>
+						</div>
 					</a>
 				</div>
 				<div class="column">
 					<a href="http://www.pixiv.net/">
-						<div  id="picture6" class="picture"></div>
+						<div id="picture6" class="picture">
+							<p class="lname">Pixiv</p>
+						</div>
 					</a>
 				</div>
 			</div>
