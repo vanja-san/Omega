@@ -176,10 +176,10 @@
 		display: block;
 		transition: all .7s;
 	}
-	.picture p {
+	.column > .picture p {
 		opacity: 0;
 
 	}
-	.picture:hover p {
+	.column > .picture:hover p {
 		opacity: 1;
 	}
