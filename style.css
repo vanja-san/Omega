@@ -177,9 +177,9 @@
 		transition: all .7s;
 	}
 	.picture:hover .lname {
-		display: inline-block;
+		position: relative;
 	}
-	p.lname {
+	.lname {
 		color: #25373D;
 		text-align: center;
 		font-size: large;
