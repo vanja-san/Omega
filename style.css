@@ -185,7 +185,5 @@
 		color: #25373D;
 		padding-top: 100px;
 		text-align: center;
-	}
-	.column:hover .lname {
-		opacity: 1;
+		z-index: 1;
 	}
