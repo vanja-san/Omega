@@ -179,7 +179,7 @@
 	.column:hover .lname {
 		display: block;
 	}
-	.lname {
+	p.lname {
 		position: absolute;
 		color: #25373D;
 		margin-top: 150%;
