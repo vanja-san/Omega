@@ -176,6 +176,9 @@
 		display: block;
 		transition: all .7s;
 	}
+	.column:hover .lname:before {
+		transition: all .7s;
+	}
 	.lname {
 		position: absolute;
 		color: #25373D;
