@@ -176,7 +176,7 @@
 		display: block;
 		transition: all .7s;
 	}
-	.column:hover .lname:before {
+	.column:hover .lname::after {
 		display: block;
 	}
 	.lname {
