@@ -12,8 +12,8 @@
 		  function updateDate() {
 		  	var m = new Date();
 		  	var n = m.getMonth() + 1;
-		  	var dateString = ("0" + m.getDate()).slice(-2) + " " + ("0" + n).slice(-2)  + " " + ("0" + m.getYear()).slice(-2)                
-		      	document.getElementById('date').innerHTML = dateString;
+				var dateString = ("0" + m.getDate()).slice(-2) + " " + ("0" + n).slice(-2)  + " " + ("0" + m.getYear()).slice(-2)
+						document.getElementById('date').innerHTML = dateString;
 			}
 			updateDate();
 		});
