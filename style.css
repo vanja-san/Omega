@@ -176,13 +176,12 @@
 		display: block;
 		transition: all .7s;
 	}
-	.column:hover .lname {
-		display: block;
+	.picture:hover .lname {
+		display: inline-block;
 	}
 	p.lname {
-		position: absolute;
 		color: #25373D;
-		left: 50%;
 		text-align: center;
 		font-size: large;
+		text-decoration: none;
 	}
