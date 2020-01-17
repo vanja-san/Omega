@@ -182,7 +182,7 @@
 	p.lname {
 		position: absolute;
 		color: #25373D;
-		left: 50px;
+		left: 50%;
 		text-align: center;
 		font-size: large;
 	}
