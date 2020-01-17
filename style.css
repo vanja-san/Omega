@@ -179,7 +179,8 @@
 	.lname {
 		position:absolute;
 		opacity: 0;
-		margin:auto;
+		margin: 20px;
+
 	}
 	.column:hover .lname {
 		opacity: 1;
