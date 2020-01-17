@@ -176,10 +176,9 @@
 		display: block;
 		transition: all .7s;
 	}
-	.column > .picture p {
+	.column p {
 		opacity: 0;
-
 	}
-	.column > .picture:hover p {
+	.column:hover p {
 		opacity: 1;
 	}
