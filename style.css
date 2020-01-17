@@ -176,13 +176,13 @@
 		display: block;
 		transition: all .7s;
 	}
-	.column:hover .lname::after {
+	.column:hover .lname {
 		display: block;
 	}
 	.lname {
 		position: absolute;
 		color: #25373D;
-		margin-top: 100%;
+		margin-top: auto;
+		margin-left: auto;
 		text-align: center;
-		z-index: 1;
 	}
