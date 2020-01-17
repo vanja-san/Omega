@@ -176,12 +176,10 @@
 		display: block;
 		transition: all .7s;
 	}
-	.lname {
-		position:absolute;
+	.column p {
 		opacity: 0;
-		margin: 20px;
 
 	}
-	.column:hover .lname {
+	.column:hover p {
 		opacity: 1;
 	}
