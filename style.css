@@ -180,10 +180,9 @@
 		display: block;
 	}
 	.lname {
-		position: relative;
+		position: absolute;
 		color: #25373D;
 		margin-top: 150%;
-		margin-left: 50%;
 		text-align: center;
 		font-size: large;
 	}
