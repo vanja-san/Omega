@@ -176,10 +176,10 @@
 		display: block;
 		transition: all .7s;
 	}
-	.lname {
+	.lname .column {
 		position:absolute;
-    padding:5px;
-    display:none;
+		display:none;
+		margin:auto;
 	}
 	.column:hover .lname {
 		display:block;
