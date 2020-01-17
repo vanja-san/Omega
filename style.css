@@ -177,6 +177,10 @@
 		transition: all .7s;
 	}
 	.lname {
-		display: inline-block; /* Строчно-блочный элемент */
-    position: relative; /* Относительное позиционирование */
+		position:absolute;
+    padding:5px;
+    display:none;
+	}
+	.column:hover .lname {
+		display:block;
 	}
